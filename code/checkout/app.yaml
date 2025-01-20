@@ -1,0 +1,11 @@
+runtime: php55
+api_version: 1
+
+handlers:
+- url: /.*
+  script: checkout.php
+
+env_variables:
+  MYSQL_DSN: mysql:unix_socket=/cloudsql/payumoney-173610:us-central1:payu1;dbname=mydb
+  MYSQL_USER: root
+  MYSQL_PASSWORD: 'stranger'
