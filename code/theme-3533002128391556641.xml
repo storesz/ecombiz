@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+ <head>
+
+
+  <meta content='IE=EmulateIE7' http-equiv='X-UA-Compatible'/> 
+  <b:if cond='data:blog.isMobile'> 
+   <meta content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0' name='viewport'/> 
+  <b:else/> 
+   <meta content='width=1100' name='viewport'/> 
+  </b:if> 
+  <b:include data='blog' name='all-head-content'/>
+  <title>Official Merchandise - Jr NTR</title>
+<include expiration='7d' path='*.css'/>
+<include expiration='7d' path='*.js'/>
+<include expiration='3d' path='*.gif'/>
+<include expiration='3d' path='*.jpeg'/>
+<include expiration='3d' path='*.jpg'/>
+<include expiration='3d' path='*.png'/>
+<meta content='sat, 02 jun 2020 00:00:00 GMT' http-equiv='expires'/> 
+  <b:skin><![CDATA[
+   /* 
+    body { 
+     font: $(body.font); 
+     color: $(body.text.color); 
+     background: $(body.background); 
+     padding: 0 $(content.shadow.spread) $(content.shadow.spread) $(content.shadow.spread); 
+     $(body.background.override) margin: 0; 
+     padding: 0; 
+    }
+   
+  ]]></b:skin>
+
+   <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'/>
+    <link href='http://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/base/jquery-ui.min.css' rel='stylesheet'/>
+    <link href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css' rel='stylesheet'/>
+   <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js'/>
+    <script src='http://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js'/>
+
+ <style type='text/css'> 
+
+[class*=&#39;grid&#39;],[class*=&#39;col-&#39;],[class*=&#39;mobile-&#39;],.grid:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}[class*=&#39;col-&#39;]{float:left;min-height:1px;padding-right:20px;}[class*=&#39;col-&#39;] [class*=&#39;col-&#39;]:last-child{padding-right:0;}.grid{width:100%;max-width:1140px;min-width:748px;margin:0 auto;overflow:hidden;}.grid:after{content:&quot;&quot;;display:table;clear:both;}.grid-pad{padding-top:20px;padding-left:20px;padding-right:0;}.push-right{float:right;}.col-1-1{width:100%;}.col-2-3,.col-8-12{width:66.66%;}.col-1-2,.col-6-12{width:50%;}.col-1-3,.col-4-12{width:33.33%;}.col-1-4,.col-3-12{width:25%;}.col-1-5{width:20%;}.col-1-6,.col-2-12{width:16.667%;}.col-1-7{width:14.28%;}.col-1-8{width:12.5%;}.col-1-9{width:11.1%;}.col-1-10{width:10%;}.col-1-11{width:9.09%;}.col-1-12{width:8.33%}.col-11-12{width:91.66%}.col-10-12{width:83.333%;}.col-9-12{width:75%;}.col-5-12{width:41.66%;}.col-7-12{width:58.33%}.push-2-3,.push-8-12{margin-left:66.66%;}.push-1-2,.push-6-12{margin-left:50%;}.push-1-3,.push-4-12{margin-left:33.33%;}.push-1-4,.push-3-12{margin-left:25%;}.push-1-5{margin-left:20%;}.push-1-6,.push-2-12{margin-left:16.667%;}.push-1-7{margin-left:14.28%;}.push-1-8{margin-left:12.5%;}.push-1-9{margin-left:11.1%;}.push-1-10{margin-left:10%;}.push-1-11{margin-left:9.09%;}.push-1-12{margin-left:8.33%}@media handheld, only screen and (max-width: 767px) {.grid{width:100%;min-width:0;margin-left:0;margin-right:0;padding-left:20px;padding-right:10px;}[class*=&#39;col-&#39;]{width:auto;float:none;margin:10px 0;padding-left:0;padding-right:10px;}[class*=&#39;col-&#39;] [class*=&#39;col-&#39;]{padding-right:0;}[class*=&#39;mobile-col-&#39;]{float:left;margin:0 0 10px;padding-left:0;padding-right:10px;padding-bottom:0;}.mobile-col-1-1{width:100%;}.mobile-col-2-3,.mobile-col-8-12{width:66.66%;}.mobile-col-1-2,.mobile-col-6-12{width:50%;}.mobile-col-1-3,.mobile-col-4-12{width:33.33%;}.mobile-col-1-4,.mobile-col-3-12{width:25%;}.mobile-col-1-5{width:20%;}.mobile-col-1-6,.mobile-col-2-12{width:16.667%;}.mobile-col-1-7{width:14.28%;}.mobile-col-1-8{width:12.5%;}.mobile-col-1-9{width:11.1%;}.mobile-col-1-10{width:10%;}.mobile-col-1-11{width:9.09%;}.mobile-col-1-12{width:8.33%}.mobile-col-11-12{width:91.66%}.mobile-col-10-12{width:83.333%;}.mobile-col-9-12{width:75%;}.mobile-col-5-12{width:41.66%;}.mobile-col-7-12{width:58.33%}.hide-on-mobile{display:none!important;width:0;height:0;}}
+
+header .img-responsive{display:inline!important}h4{font-weight:600}p{font-size:12px;margin-top:5px}.price{padding-left:25px;position:absolute;padding-top:10px;font-size:1.25em;color:green;font-family:Roboto,sans-serif}.thumbnail{display:block;padding:4px;margin-bottom:20px;line-height:1.42857143;background-color:#fff;border-radius:4px;-webkit-transition:border .2s ease-in-out;-o-transition:border .2s ease-in-out;transition:border .2s ease-in-out;opacity:1;cursor:pointer}.thumbnail img{width:100%}.thumbnail&gt;img{margin-right:auto;margin-left:auto}.thumbnail&gt;img{display:block;max-width:100%;height:auto}.line{margin-bottom:5px}@media screen and (max-width:770px){.right{float:left;width:100%}}.thumbnail hr{margin-top:0px!important;border:0;height:1px;background-image:linear-gradient(to right,rgba(0,0,0,0),rgba(0,0,0,.75),rgba(0,0,0,0))}.thumbnail .btno{width:80%!important;letter-spacing:1px;font:normal normal normal 16px / 19.2px Roboto,sans-serif;padding:10px 16px!important}.btno-success{color:#fff;background-color:#5cb85c;border-color:#4cae4c;display:block!important;margin:0 auto!important}.btno{display:inline-block;padding:6px 12px;margin-bottom:0;font-size:14px;font-weight:400;line-height:1.42857143;text-align:center;white-space:nowrap;vertical-align:middle;-ms-touch-action:manipulation;touch-action:manipulation;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;background-image:none;border:1px solid transparent;border-radius:4px}.btno-success:hover,.btno-success:focus,.btno-success:active,.btno-success.active{color:#fff;background-color:#00b3db;border-color:#285e8e}.hr2{margin-top:5px!important}.price{white-space:nowrap;position:relative;margin:0 5px 0 10px;displaY:inline-block;border-radius:0 5px 5px 0;padding:0 10px 0 10px;background:#E8EDF0;border:0 solid #C7D2D4;border-top-width:1px;border-bottom-width:1px;color:#565656;top:20px;float:right;right:10px;transform:rotateZ(-5deg) scale(1)}.price:after{position:absolute;right:0;margin:1px 7px;font-weight:700;font-size:19px}.price:before{position:absolute;content:&quot;\25CF&quot;;color:white;text-shadow:0 0 1px #333;font-size:11px;line-height:0;text-indent:12px;left:-15px;width:1px;height:0;border-right:14px solid #E8EDF0;border-top:13px solid transparent;border-bottom:13px solid transparent}#dialog{padding:0px!important;border:0px!important}.ui-dialog{padding:0px!important;border:0px!important;margin-top:48px;top:0px!important;width:320px!important;font-family:Roboto,sans-serif;-webkit-font-smoothing:antialiased;border-radius:8px!important;transition:all .3s}.offer--specs{padding:14px 0}.offer--merchant .row{max-width:62.5rem;margin-left:auto;margin-right:auto;color:#fff}.center{text-align:center}.small-12{width:100%;font-size:15px}.coluimn{padding-left:.9375rem;padding-right:.9375rem}.payments-header{background-size:cover;display:block;position:relative;border-radius:5px 5px 0 0}.reactiona{margin-top:48px;margin-left:auto;margin-right:auto;-webkit-transform:translateX(0) scale(1);transform:translateX(0) scale(1)}.payments-header--avatar-container{position:absolute;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);margin-left:50%;z-index:2000;box-shadow:0 1px 2px rgba(0,0,0,.3);padding:2px;background:#fff;border-radius:4px}.payments-header--avatar-container .payments-header--avatar{height:60px;width:60px}.offer--merchant{padding:36px 0 14px}.ui-dialog-titlebar{display:none}.ui-dialog .ui-dialog-titlebar-close{margin:0 -5px 0 0;top:0%!important;outline-width:0px!important}.ui-widget-overlay{background:#000 url(images/ui-bg_flat_0_aaaaaa_40x100.png) 50% 50% repeat-x;opacity:.9;filter:Alpha(Opacity=90);transition:0.3s ease-out}#dialog{width:320px;margin-left:auto;margin-right:auto;margin-top:-48px}label,input{display:block}input.text{margin-bottom:12px;width:95%;padding:.4em}fieldset{padding:0;border:0;margin-top:25px}h1{font-size:1.2em;margin:.6em 0}div#users-contain{width:350px;margin:20px 0}div#users-contain table{margin:1em 0;border-collapse:collapse;width:100%}div#users-contain table td,div#users-contain table th{border:1px solid #eee;padding:.6em 10px;text-align:left}.ui-dialog .ui-state-error{padding:.3em}.validateTips{border:1px solid transparent;padding:.3em}.payments-form{border-radius:0 0 4px 4px;padding-top:5px}.stepwizard-row{white-space:nowrap;padding-right:14px!important;padding-left:14px!important;font-size:14px;padding:10px 0;border-bottom:1px solid rgba(227,236,242,.5);margin-bottom:16px}.stepwizard-row div{display:inline-block;line-height:26px;margin:0 9px 0 -10px;padding:0 10px;position:relative;line-height:1em}.stepwizard-step::before,.stepwizard-step::after{border-left:1px solid rgb(147,160,175);content:&#39;&#39;;display:block;height:50%;position:absolute;left:0;right:0;top:0;z-index:-1;transform:skewX(45deg)}.stepwizard-step::after{bottom:0;top:auto;transform:skewX(-45deg)}.stepwizard-row div a{text-decoration:none!important}.stepwizard-row div:first-of-type::before,.stepwizard-row div:first-of-type::after{display:none}.stepwizard-step button[disabled]{opacity:1!important;filter:alpha(opacity=100)!important}.btn&gt;input[type=radio]{display:none}.btn-group{margin-top:10px}.btn-group button{border:solid 1px #cacaca;margin:0 1.5px;border-radius:15px;-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none;background:white;padding-bottom:1px;cursor:pointer;outline-width:0px!important;color:#333333!important}.btn-group .btn-default:hover,.btn-group .btn-default:focus,.btn-group .btn-default.active{background-color:#00c4cc!important}.btn.buttn:hover,.btn.buttn:focus{background-color:wheat!important}[type=email],[type=tel],[type=text],textarea,[type=number]{display:block;box-sizing:border-box;width:100%;height:2.4375rem;padding:.5rem;border:1px solid #cacaca;margin:0 0 1rem;font-family:Roboto,sans-serif;font-size:1rem;color:#192a38;background-color:#fff;box-shadow:none;border-radius:4px;-webkit-transition:box-shadow .5s,border-color .25s ease-in-out;transition:box-shadow .5s,border-color .25s ease-in-out;-webkit-appearance:none;-moz-appearance:none}[id=quantity]{display:inline-flex;width:inherit;width:30px;height:38px;margin:0 2px;padding-left:3px;padding-right:3px;text-align:center;padding-top:10px!important}.qtyminus,.qtyplus{display:inline-block;width:18px;height:26px;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;background:#aeb2b2;color:#fff;text-align:center;font-size:1.375em;line-height:18px;-webkit-transition:background 0.3s ease;-moz-transition:background 0.3s ease;transition:background 0.3s ease;font-size:20px!important;border:none;cursor:pointer;outline-width:0px!important}.qtyplus{padding:2px 0 3px 0px!important}.qtyminus{padding-left:4.7px;padding-top:0;padding-bottom:3px}.qtyminus:hover,.qtyplus:hover{background-color:#00c4cc!important}.form-group label{color:#717d8b;margin-bottom:2px;font-size:12px;line-height:1.6rem}.rows{max-width:none;margin-left:-.9375rem;margin-right:-.9375rem}.rows .columns{padding-left:.9375rem;float:left}.rows .columns:first-of-type{width:28%}.totalpay{border-top:1px solid rgb(240,244,248);border-bottom:1px solid rgb(240,244,248);padding-top:7px!important;padding-bottom:7px!important;text-align:center;margin:30px 0 20px 0}.nothing{border:0;outline:none;display:inline-flex;width:40px}.nextBtn{letter-spacing:0!important;line-height:1.6!important;width:100%;cursor:pointer;text-align:center;font-size:16px;border-radius:4px;box-shadow:none;padding:.65rem 1rem;display:inline-block;-webkit-transition:background .1s ease-in;transition:background .1s ease-in;letter-spacing:1px;line-height:1.2em;text-transform:uppercase;font-weight:700;background:#2fbe6d;color:#fff;border:1px solid #2fbe6d;margin-bottom:15px}.btn.disabled,.btn[disabled],fieldset[disabled] .btn{pointer-events:none;cursor:pointer;color:rgb(147,160,175)}textarea{min-height:50px;padding:.5rem;line-height:25px}.form-group select{height:2.4375rem;padding:.5rem;border:1px solid #cacaca;margin:0 0 1rem;font-size:1rem;font-family:Roboto,sans-serif;line-height:normal;color:#192a38;background-color:#f1f4f6;border-radius:4px;-webkit-appearance:none;-moz-appearance:none;background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAXCAYAAAB9J90oAAAAAXNSR0IArs4c6QAAARdJREFUSA3N1zsOwjAMBuC6Q6WywyU4BSsH4ACMcJ6KDQlGWJiQWOAUnIKdSpUg8FcqKoU0ceI+vDRKXOeTOzQJgnckm8NivTsOMe5TwAQbTITBU6mEiK6DOJrMZ9NbH7BA3tPsopQah0TLMI6jPZCYwEIfOltGwpYb0b3qQped1Vmo+My6hGK9jWed4QMFpC6xaahp7y9oV1gTEq4faNtYG6QW2hbWFlkLbRrLQRqhTWG5SCuoNNYFaQ2VwroiWVBfrA+SDXXF+iKdoFysBNIZaouVQnpBTVhJpDdUh8V8ceiVOpD//ddjI05Uu4d3cRCXQqKeCBSFyti8sPDVRgwK3Gp7Gj1Uesa4y1sC9jcGsOiuMZGZ8AIlTNRPUfMhNwAAAABJRU5ErkJggg==)!important;background-size:20px;background-position:right -1rem center!important;background-origin:content-box;background-repeat:no-repeat;padding-right:1.5rem;width:100%}.btn.buttn{width:100%;line-height:1.2!important;font-size:16px;border-radius:4px;padding:.65rem 1rem;display:inline-block;-webkit-transition:background .1s ease-in;transition:background .1s ease-in;text-transform:uppercase;font-weight:700;color:#3b96e0!important;border:1px solid #3b96e0}.btn-group.groupi{display:grid}.buttn{margin-bottom:20px!important}[type=email]:focus,[type=number]:focus,[type=tel]:focus,[type=text]:focus,textarea:focus{border:1px solid #1b75bb;background-color:#fff;outline:none;box-shadow:none;-webkit-transition:box-shadow .5s,border-color .25s ease-in-out;transition:box-shadow .5s,border-color .25s ease-in-out}textarea{max-width:100%}textarea[rows]{height:auto}input::-webkit-input-placeholder,textarea::-webkit-input-placeholder{color:#cacaca}input::-moz-placeholder,textarea::-moz-placeholder{color:#cacaca}input:-ms-input-placeholder,textarea:-ms-input-placeholder{color:#cacaca}input::placeholder,textarea::placeholder{color:#cacaca}.has-error .help-block,.has-error .control-label,.has-error .radio,.has-error .checkbox,.has-error .radio-inline,.has-error .checkbox-inline,.has-error.radio label,.has-error.checkbox label,.has-error.radio-inline label,.has-error.checkbox-inline label{color:#a94442;font-size:16px}.has-error input[text],.has-error textarea,.has-error select{border-color:#e83c58!important}input[type=&#39;number&#39;]{-moz-appearance:textfield}input[type=number]::-webkit-inner-spin-button,input[type=number]::-webkit-outer-spin-button{-webkit-appearance:none;margin:0}#submit100{display:none}.payments-form [class*=&#39;col-&#39;]{float:none;min-height:none;padding-right:0}button.circle{width:25px;height:25px;background:transparent;border:1px solid #fff;-moz-border-radius:50%;-webkit-border-radius:50%;border-radius:50%;position:relative;cursor:pointer;display:inline-block;margin:-21px 30px;z-index:999999;box-shadow:0 1px 4px 1px #040404;background:#232121}button.circle:before{left:50%;top:50%;margin-left:-8px;margin-top:-.5px;width:15px;height:1px;background-color:#fff;content:&quot;&quot;;position:absolute;-moz-transform:rotate(45deg);-ms-transform:rotate(45deg);-webkit-transform:rotate(45deg);transform:rotate(45deg)}button.circle:after{width:15px;height:1px;background-color:#fff;content:&quot;&quot;;left:50%;top:50%;margin-left:-8px;margin-top:-.5px;position:absolute;-moz-transform:rotate(-45deg);-ms-transform:rotate(-45deg);-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}.form-group .mock-cursor{position:absolute;color:black;-webkit-animation:blink 1s infinite;animation:blink 1s infinite;bottom:.45em;left:.45em;font-size:1.2em}.mock2{bottom:1.8em!important}input:focus~.mock-cursor{display:none}@-webkit-keyframes blink{0%,49.9%,100%{opacity:0}50%,99.9%{opacity:1}}@-webkit-keyframes moveLeft{0%{-webkit-transform:translateX(-15px)}100%{-webkit-transform:translateX(0)}}.intro-button{opacity:0;-webkit-animation:buttonFade 0.25s 1 forwards,moveLeft 0.25s forwards}@-webkit-keyframes buttonFade{0%{opacity:0}20%{opacity:.2}40%{opacity:.4}60%{opacity:.6}80%{opacity:.8}100%{opacity:1}}input:-webkit-autofill{-webkit-box-shadow:0 0 0 1000px white inset!important}@-webkit-keyframes f{0%{-webkit-transform:translateX(0);transform:translateX(0)}12.5%{-webkit-transform:translateX(-6px);transform:translateX(-6px)}37.5%{-webkit-transform:translateX(5px);transform:translateX(5px)}62.5%{-webkit-transform:translateX(-3px);transform:translateX(-3px)}87.5%{-webkit-transform:translateX(2px);transform:translateX(2px)}to{-webkit-transform:translateX(0);transform:translateX(0)}}@keyframes f{0%{-webkit-transform:translateX(0);transform:translateX(0)}12.5%{-webkit-transform:translateX(-6px);transform:translateX(-6px)}37.5%{-webkit-transform:translateX(5px);transform:translateX(5px)}62.5%{-webkit-transform:translateX(-3px);transform:translateX(-3px)}87.5%{-webkit-transform:translateX(2px);transform:translateX(2px)}to{-webkit-transform:translateX(0);transform:translateX(0)}}.shake{-webkit-animation-duration:.4s;animation-duration:.4s;-webkit-animation-name:f;animation-name:f;-webkit-animation-timing-function:ease-in-out;animation-timing-function:ease-in-out}a:active,a:focus{outline-color:-webkit-focus-ring-color;outline-style:auto;outline-width:0px!important}.has-error{font-size:16px;color:red}
+
+</style>
+
+
+<script type='text/javascript'>
+//<![CDATA[
+
+(function($){
+	if(location.hash){
+		$(window).scrollTop(0); //stop jump to hash straight away
+		setTimeout(function(){
+			//stop jump to hash again a bit later
+			//for browser compatibility
+			$(window).scrollTop(0);
+		},1);
+	}
+	$(window).load(function(){
+		if(location.hash){
+			setTimeout(function(){
+				//use page scroll to id scrollTo method
+				//to animate page to location hash
+				$('html, body').animate({
+        scrollTop: $( location.hash ).offset().top
+    }, 500);
+			},1);
+		}
+	});
+})(jQuery);
+
+
+
+
+
+
+
+    $(function() {
+        $("#dialog").dialog({
+            autoOpen: false,
+            modal: true,
+            noTitleStuff: true,
+            show: {
+                effect: "pulsate",
+                duration: 100,
+                times: 1
+            },
+
+
+        });
+
+
+        $(".thumbnail").on("click", function() {
+            $("#dialog").dialog("open");
+            $('div.setup-panel div a.btn-primary').trigger('click');
+            
+
+            $('#curl').val(window.location);
+            $('#udf3').val(window.location);
+
+            var myid = $(this).attr("name");
+            $('#productinfo').val(myid);
+
+            var img = $(this).find("img");
+            var imgurl = img.first().attr("src");
+            $('.payments-header').css('background-image', 'linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url(' + imgurl + ')');
+
+
+
+        });
+
+        $(document).on("click", ".circle", function() {
+            $("#dialog").dialog("close");
+        });
+
+    });
+
+    $("#quantity").on("change paste keyup", function() {
+        alert($(this).val());
+    });
+
+
+
+    jQuery(document).ready(function() {
+
+$(".btn.btn-default").click(function()
+{ 
+    $(this).children('input').attr("checked", "checked");
+});
+
+        var html = '<div class="payments--close" style="position: absolute;right: 50%;top: 6px;color: rgb(255, 255, 255);cursor: pointer;margin-right: -200px;"><button class="circle"></button></div>';
+        $(".ui-dialog").prepend(html);
+
+
+        // This button will increment the value
+        $('.qtyplus').click(function(e) {
+            // Stop acting like a button
+            e.preventDefault();
+            // Get the field name
+            fieldName = $(this).attr('field');
+            // Get its current value
+            var currentVal = parseInt($('input[name=' + fieldName + ']').val());
+            // If is not undefined
+            if (!isNaN(currentVal)) {
+                // Increment
+                $('input[name=' + fieldName + ']').val(currentVal + 1);
+                $('#quantity').attr('value', currentVal + 1);
+                $('#price').attr('value', (currentVal + 1) * 399);
+            } else {
+                // Otherwise put a 0 there
+                $('input[name=' + fieldName + ']').val(1);
+                $('#quantity').attr('value', 1);
+            }
+        });
+        // This button will decrement the value till 0
+        $(".qtyminus").click(function(e) {
+            // Stop acting like a button
+            e.preventDefault();
+            // Get the field name
+            fieldName = $(this).attr('field');
+            // Get its current value
+            var currentVal = parseInt($('input[name=' + fieldName + ']').val());
+            // If it isn't undefined or its greater than 0
+            if (!isNaN(currentVal) && currentVal > 1) {
+                // Decrement one
+                $('input[name=' + fieldName + ']').val(currentVal - 1);
+                $('#quantity').attr('value', currentVal - 1);
+                $('#price').attr('value', (currentVal - 1) * 399);
+
+            } else {
+                // Otherwise put a 0 there
+                $('input[name=' + fieldName + ']').val(1);
+                $('#quantity').attr('value', 1);
+            }
+        });
+    });
+
+
+    $(document).ready(function() {
+
+
+
+        var navListItems = $('div.setup-panel div a'),
+            allWells = $('.setup-content'),
+            allNextBtn = $('.nextBtn');
+
+        allWells.hide();
+
+        navListItems.click(function(e) {
+            e.preventDefault();
+            var $target = $($(this).attr('href')),
+                $item = $(this);
+            hreff = $(this).attr('href');
+            var lastChar = hreff.substr(hreff.length - 1);
+            if (!$item.hasClass('disabled')) {
+                navListItems.removeClass('btn-primary').addClass('btn-default');
+                $item.addClass('btn-primary');
+                allWells.hide();
+
+
+$(".my-text").focus(function() {
+  $(this).next('span').css({"display":"none"});
+});
+
+
+			
+$("form").addClass("intro-button").one("webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend", function(){
+            $(this).removeClass( "intro-button" );});
+
+                $target.show();
+
+
+
+var url = window.location.href;
+
+
+if (!url.match( /m=1/ )) 
+{
+if($('body').scrollTop() > 140)
+  {
+   $('html, body').animate({scrollTop : 0},1000);
+  }
+$target.find('input, textarea').first().focus();
+}
+else
+{
+ if (lastChar==2  || lastChar==3) 
+ {
+  if($('body').scrollTop() > 140)
+  {
+   $('html, body').animate({scrollTop : 140},1000);
+  }
+ }
+}
+
+
+
+				
+                if (lastChar > 1) { $('head').append('<style>.stepwizard-step:nth-of-type(' + lastChar + ')::before,.stepwizard-step:nth-of-type(' + lastChar + ')::after {border-left: 1px solid rgb(67, 74, 84) !important;}</style>'); }
+            }
+        });
+
+        allNextBtn.click(function() {
+            var curStep = $(this).closest(".setup-content"),
+                curStepBtn = curStep.attr("id"),
+                nextStepWizard = $('div.setup-panel div a[href="#' + curStepBtn + '"]').parent().next().children("a"),
+                curInputs = curStep.find("input[type='text'],input[type='url'],input[type='tel'],input[type='email'], input[type=number],input[type='radio'],select,textarea"),
+                isValid = true;
+
+            $(".form-group").removeClass("has-error");
+            for (var i = 0; i < curInputs.length; i++) {
+                if (!curInputs[i].validity.valid) {
+                    isValid = false;
+                    $(curInputs[i]).closest(".form-group").addClass("has-error");
+                    $(".ui-dialog").addClass("shake").one("webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend", function(){
+            $(this).removeClass( "shake" );});
+
+                }
+            }
+
+            if (isValid)
+                nextStepWizard.removeAttr('disabled').trigger('click');
+
+        });
+
+    });
+
+
+
+
+
+
+
+
+
+
+
+//]]>
+   </script>
+ </head>
+ <body>
+  <b:section class='main' id='main' showaddelement='yes'/>
+  <header role='banner' style='text-align: center;'>
+        <img src='https://3.bp.blogspot.com/-XNJyh5k0sRI/WXmAGibhEjI/AAAAAAAAAlU/Iq2H1rQYwoE4sLVtWeJ06xRxbEWGHuy3gCLcBGAs/s320/ntr%2Blogo%2B%25281%2529.jpg' width='320'/>
+    </header>
+    <div class='grid grid-pad'>
+        <div class='col-1-3'>
+            <div class='content'>
+                <div class='price'>&#8377;399</div>
+                <span class='thumbnail' id='1' name='ntrtee1'>
+<img alt='...' src='https://3.bp.blogspot.com/-CpqJ71xQqzk/WXhv8h_hn_I/AAAAAAAAAk0/jTR4F7Z1YQkB2jCiUyJJjODXi2sSLz5VwCLcBGAs/s1600/lavkus%2B%25281%2529.jpg'/>
+                  <hr class='line'/>
+                    <button class='btno btno-success'><i aria-hidden='true' class='fa fa-shopping-cart' style='padding-right: 10px;'/>BUY NOW</button>
+                  <hr class='line' style='margin-top:5px !important;'/>
+                </span>
+            </div>
+        </div>
+        <div class='col-1-3'>
+            <div class='content'>
+                <div class='price'>&#8377;399</div>
+                <span class='thumbnail' id='2' name='ntrtee2'>
+                    
+<img alt='...' src='https://3.bp.blogspot.com/-rgDWfAjjrA0/WXhnEpPfHaI/AAAAAAAAAkQ/W4Dq3Kq8k547NZl9q0o7FX54-S-ofgifgCLcBGAs/s1600/ntr-bigboss%2B%25282%2529.jpg'/>
+                  <hr class='line'/>
+                    <button class='btno btno-success'><i aria-hidden='true' class='fa fa-shopping-cart' style='padding-right: 10px;'/>BUY NOW</button>
+                  <hr class='line' style='margin-top:5px !important;'/>
+                </span>
+            </div>
+        </div>
+        <div class='col-1-3'>
+            <div class='content'>
+                <div class='price'>&#8377;399</div>
+                <span class='thumbnail' id='3' name='ntrtee3'>
+<img alt='...' src='https://3.bp.blogspot.com/-pEYrjo-3h1c/WXhswimjZUI/AAAAAAAAAkg/FU5YsyhGufUH4vrFAy9MiHWLxQLYD6xjgCLcBGAs/s1600/lavakusa%2B%25281%2529.jpg'/>
+                  <hr class='line'/>
+                    <button class='btno btno-success'><i aria-hidden='true' class='fa fa-shopping-cart' style='padding-right: 10px;'/>BUY NOW</button>
+                  <hr class='line' style='margin-top:5px !important;'/>
+                </span>
+            </div>
+        </div>
+        <div class='col-1-3'>
+            <div class='content'>
+                <div class='price'>&#8377;399</div>
+                <span class='thumbnail' id='4' name='ntrtee4'>
+<img alt='...' src='https://2.bp.blogspot.com/-DNaQ_OfwZmQ/WXhqOZfzCLI/AAAAAAAAAkY/yeeSnxJHRlMAwMyZLgd0kyGcwjT7htu0gCLcBGAs/s1600/jai-lava-kusa%2B%25281%2529.jpg'/>
+                    
+                  <hr class='line'/>
+                    <button class='btno btno-success'><i aria-hidden='true' class='fa fa-shopping-cart' style='padding-right: 10px;'/>BUY NOW</button>
+                  <hr class='line' style='margin-top:5px !important;'/>
+                </span>
+            </div>
+        </div>
+    </div>
+    <div id='dialog' title='Create new user'>
+        <div class='reactiona'>
+            <div class='payments-header is--product-payment has--preview has--avatar' style=''>
+                <div class='payments-header--avatar-container sticky'>
+                    <img class='payments-header--avatar' height='60' src='https://2.bp.blogspot.com/-NG0QmBOAb6I/WXmFvx_DsUI/AAAAAAAAAlg/1gKtAGArFhUf9vYZyKLgqTaBemSQg-K8QCPcBGAYYCw/s1600/adidas%2B%25281%2529.jpg' width='60'/>
+                </div>
+                <div class='offer--merchant'>
+                    <div class='row '>
+                        <div class='columns small-12 center'>NTR T-Shirt
+                        </div>
+                    </div>
+                </div>
+                <div class='offer--specs'>
+                    <div class='soft--sides' style='word-wrap: break-word; line-height: 1.2;'>.</div>
+                </div>
+                <div class='payments--close' style='position: absolute; right: 50%; top: 6px; color: rgb(255, 255, 255); cursor: pointer;'><i class='nc-icon-outline ui-1_circle-remove_modal medium' style='margin-right: 6px;'/></div>
+            </div>
+        </div>
+        <div class='payments-form'>
+            <div class='stepwizard col-md-offset-3'>
+                <div class='stepwizard-row setup-panel'>
+                    <div class='stepwizard-step'>
+                        <a class='btn btn-primary btn-circle' href='#step-1' type='button'>Your Details</a>
+                    </div>
+                    <div class='stepwizard-step'>
+                        <a class='btn btn-default btn-circle' disabled='disabled' href='#step-2' type='button'>Shipping</a>
+                    </div>
+                    <div class='stepwizard-step'>
+                        <a class='btn btn-default btn-circle' disabled='disabled' href='#step-3' type='button'>Payment</a>
+                    </div>
+                </div>
+            </div>
+            <div class='coluimn'>
+                <form action='http://localhost/payumoneyform.php' id='payuform' method='POST' role='form'>
+                    <div class='row setup-content' id='step-1'>
+                        <div class='col-xs-6 col-md-offset-3'>
+                            <div class='col-md-12'>
+                                <div class='form-group' style='position:relative;'>
+                                    <label class='control-label'>Name</label>
+                                    <input class='form-control my-text' maxlength='100' name='firstname' placeholder='' required='required' type='text'/><span class='mock-cursor'>|</span>
+                                </div>
+                                <div class='form-group'>
+                                    <label class='control-label'>Email</label>
+                                    <input class='form-control' maxlength='100' name='email' placeholder='' required='required' type='email'/>
+                                </div>
+                                <div class='form-group'>
+                                    <label class='control-label'>Mobile Number</label>
+                                    <input class='form-control' maxlength='100' name='phone' placeholder='' required='required' type='tel'/>
+                                </div>
+                                <div class='rows'>
+                                    <div class='form-group columns'>
+                                        <label class='control-label' style='margin-left: 14px;'>Quantity</label>
+                                        <input class='qtyminus' field='udf1' type='button' value='-'/>
+                                        <input class='qty' id='quantity' max='100' min='1' name='udf1' readonly='readonly' required='required' type='text' value='1'/>
+                                        <input class='qtyplus' field='udf1' type='button' value='+'/>
+                                    </div>
+                                    <div class='form-group columns'>
+                                        <label class='control-label' style='text-align: center;'>Select Size</label>
+                                        <div class='btn-group' data-toggle='buttons'>
+                                            <button class='btn btn-default'>
+                                                <input name='udf2' required='required' type='radio' value='S'/>S</button>
+                                            <button class='btn btn-default'>
+                                                <input name='udf2' required='required' type='radio' value='M'/>M</button>
+                                            <button class='btn btn-default'>
+                                                <input name='udf2' required='required' type='radio' value='L'/>L</button>
+                                            <button class='btn btn-default'>
+                                                <input name='udf2' required='required' type='radio' value='XL'/>XL</button>
+                                            <button class='btn btn-default'>
+                                                <input name='udf2' required='required' type='radio' value='XXL'/>XXL</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div style='clear:both'/>
+                                <div class='totalpay'>
+                                    <span style='margin-right:10px'>You Pay</span><i aria-hidden='true' class='fa fa-inr'/><input class='nothing' id='price' name='amount' readonly='readonly' value='399'/>
+                                </div>
+                                <button class='btn btn-primary nextBtn btn-lg pull-right' type='button'>Next</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class='row setup-content' id='step-2'>
+                        <div class='col-xs-6 col-md-offset-3'>
+                            <div class='col-md-12'>
+                                <div class='form-group' style='position:relative;'>
+                                    <label class='control-label'>Shipping Address</label>
+                                    <textarea class='form-control my-text' name='address1' placeholder='House number, bulding name, street name etc.' required='required' rows='2' style='resize: vertical;'/><span class='mock-cursor mock2'>|</span>
+                                </div>
+                                <div class='form-group'>
+                                    <label class='control-label'>State</label>
+                                    <select name='state' required='required'>
+                                        <option value=''>Select an option</option>
+                                        <option value='Andaman and Nicobar Islands'>Andaman and Nicobar Islands</option>
+                                        <option value='Andhra Pradesh'>Andhra Pradesh</option>
+                                        <option value='Arunachal Pradesh'>Arunachal Pradesh</option>
+                                        <option value='Assam'>Assam</option>
+                                        <option value='Bihar'>Bihar</option>
+                                        <option value='Chandigarh'>Chandigarh</option>
+                                        <option value='Chattisgarh'>Chattisgarh</option>
+                                        <option value='Dadra and Nagar Haveli'>Dadra and Nagar Haveli</option>
+                                        <option value='Daman and Diu'>Daman and Diu</option>
+                                        <option value='Delhi'>Delhi</option>
+                                        <option value='Goa'>Goa</option>
+                                        <option value='Gujarat'>Gujarat</option>
+                                        <option value='Haryana'>Haryana</option>
+                                        <option value='Himachal Pradesh'>Himachal Pradesh</option>
+                                        <option value='Jammu and Kashmir'>Jammu and Kashmir</option>
+                                        <option value='Jharkhand'>Jharkhand</option>
+                                        <option value='Karnataka'>Karnataka</option>
+                                        <option value='Kerala'>Kerala</option>
+                                        <option value='Lakshadweep Islands'>Lakshadweep Islands</option>
+                                        <option value='Madhya Pradesh'>Madhya Pradesh</option>
+                                        <option value='Maharashtra'>Maharashtra</option>
+                                        <option value='Manipur'>Manipur</option>
+                                        <option value='Meghalaya'>Meghalaya</option>
+                                        <option value='Mizoram'>Mizoram</option>
+                                        <option value='Nagaland'>Nagaland</option>
+                                        <option value='Odisha'>Odisha</option>
+                                        <option value='Pondicherry'>Pondicherry</option>
+                                        <option value='Punjab'>Punjab</option>
+                                        <option value='Rajasthan'>Rajasthan</option>
+                                        <option value='Sikkim'>Sikkim</option>
+                                        <option value='Tamil Nadu'>Tamil Nadu</option>
+                                        <option value='Telangana'>Telangana</option>
+                                        <option value='Tripura'>Tripura</option>
+                                        <option value='Uttar Pradesh'>Uttar Pradesh</option>
+                                        <option value='Uttarakhand'>Uttarakhand</option>
+                                        <option value='West Bengal'>West Bengal</option>
+                                    </select>
+                                </div>
+                                <div class=' rows' style='margin-bottom:20px'>
+                                    <div class='form-group columns' style='width: 43%;'>
+                                        <label class='control-label'>City</label>
+                                        <input class='form-control' maxlength='100' name='city' placeholder='' required='required' type='text'/>
+                                    </div>
+                                    <div class='form-group columns' style='width: 43%;'>
+                                        <label class='control-label'>Postal Code</label>
+                                        <input class='form-control' maxlength='100' name='zipcode' placeholder='' required='required' type='number'/> </div>
+                                </div>
+                                <input id='productinfo' name='productinfo' type='hidden' value='Allu T-shirt'/>
+                                <input id='curl' name='curl' type='hidden' value=''/>
+                                <input id='udf3' name='udf3' type='hidden' value=''/>
+                                <button class='btn btn-primary nextBtn btn-lg pull-right' style='margin-top: 10px;' type='button'>Next</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class='row setup-content' id='step-3'>
+                        <div class='col-xs-6 col-md-offset-3'>
+                            <div class='col-md-12'>
+                                <div>
+                                    <div class='btn-group groupi' data-toggle='buttons'>
+                                        <button class='btn btn-default buttn'>
+                                            <input name='pg' required='required' type='radio' value='DC'/>Debit Card</button>
+                                        <button class='btn btn-default buttn'>
+                                            <input name='pg' required='required' type='radio' value='NB'/>Net Banking</button>
+                                        <button class='btn btn-default buttn'>
+                                            <input name='pg' required='required' type='radio' value='CC'/>Credit Card</button>
+                                        <button class='btn btn-default buttn'>
+                                            <input name='pg' required='required' type='radio' value='CASH'/>Wallet</button>
+                                    </div>
+                                    <img class='push-one-half--bottom' src='https://1.bp.blogspot.com/-5ecu87rpsN8/WX2Uv7fckiI/AAAAAAAAAmo/NOjMkLqXiZ8lStsOtfGHwZI80UBivGKqgCLcBGAs/s1600/trust-icons%2B%25281%2529.jpg' style='height: 36px; display: block; margin: 0px auto; max-width: 100%;'/></div>
+                                <button class='btn btn-success btn-lg pull-right' id='submit100' name='submit' type='submit' value='submit'>Submit</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+<footer style='     text-align: center; '>
+<div class='footer-content'>
+<p class='content'>
+  &#169; 2017. All Rights Reserved.<br/>.</p>
+</div>
+</footer>
+ </body>
+</html>
